@@ -2,8 +2,8 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 				xmlns:android="http://schemas.android.com/apk/res/android"
-				id="com.danishin.wifiwizard"
-				version="0.2.11">
+				id="cordova-plugin-wifiwizard"
+				version="1.1.0">
 	
 	<name>WifiWizard</name>
 	<description>This plugin allows Phonegap applications to manage Wifi connections.</description>
